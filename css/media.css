@@ -1,0 +1,355 @@
+.logo{
+	width: 226px;
+	height:45px;
+	background:url(../images/logo.png);
+}
+header .btn-qq-login{
+	width:120px;
+	height:22px;
+	padding-left:16px; 
+	background-image: url(../images/icon-qq.png);
+	background-position:  left center ;
+	background-repeat:  no-repeat;
+	background-color: #1075BD;
+	color:#fff;
+	border:1px solid #afafaf;
+	border-radius: 3px;
+	font-size: 12px;
+}
+.img-theme-show{
+	width: 249px;
+	height:125px;
+	background:url(../images/pic-theme.png);
+}
+.sectitle-head{
+	height:36px;
+	width: 260px;
+	background:url(../images/bg-sectitle.png);
+}
+.img-wedding-vogue{
+	width: 196px;
+	height:32px;
+	margin:2rem auto;
+	background:url(../images/pic-weddingvogue.png);
+}
+.banner1{
+	height:59px;
+	width:100%;
+}
+.banner1>.bg1{
+	float:left;
+	width:260px;
+	height:100%;
+	background:url(../images/bg-banner2.png) repeat;
+}
+.banner1>.bg2{
+	float:left;
+	width:135px;
+	height:100%;
+	background:url(../images/pic-banner1-item1.png) no-repeat;
+}
+.banner1>.bg3{
+	float:left;
+	width:665px;
+	height:100%;
+	background:url(../images/bg-banner1.png) repeat;
+}
+.pic-brideclass-left{
+	position: relative;
+	width: 246px;
+	height:307px;
+	background:url(../images/pic-bride-left.png);
+}
+.hot-row .icon-hot{
+	height:30px;
+	width:104px;
+	background: url(../images/icon-hot.png);
+}
+.reservation .icon-reg{
+	background-image: url(../images/icon-reserve1.png);
+}
+.reservation .icon-luckday{
+	background-image: url(../images/icon-reserve2.png);
+}
+.reservation .icon-music{
+	background-image: url(../images/icon-reserve3.png);
+}
+.reservation .icon-budget{
+	background-image: url(../images/icon-reserve4.png);
+}
+.reservation .icon-cust{
+	background-image: url(../images/icon-reserve5.png);
+}
+.reservation .icon-contract{
+	background-image: url(../images/icon-reserve6.png);
+}
+.img-mkup1{
+	background-image:url(../images/pic-makeups1.png);
+}
+.img-mkup2{
+	background-image:url(../images/pic-makeups2.png);
+}
+.img-mkup3{
+	background-image:url(../images/pic-makeups3.png);
+}
+.img-mkup4{
+	background-image:url(../images/pic-makeups4.png);
+}
+.img-mkup5{
+	background-image:url(../images/pic-makeups5.png);
+}
+.img-mkup6{
+	background-image:url(../images/pic-makeups6.png);
+}
+.img-mkup7{
+	background-image:url(../images/pic-makeups7.png);
+}
+.img-mkup8{
+	background-image:url(../images/pic-makeups8.png);
+}
+.img-mkup9{
+	background-image:url(../images/pic-makeups9.png);
+}
+.img-dressing1{
+	background-image:url(../images/pic-dress1.png);
+}
+.img-dressing2{
+	background-image:url(../images/pic-dress2.png);
+}
+.img-dressing3{
+	background-image:url(../images/pic-dress3.png);
+}
+.img-dressing4{
+	background-image:url(../images/pic-dress4.png);
+}
+.img-dressing5{
+	background-image:url(../images/pic-dress5.png);
+}
+.img-dressing6{
+	background-image:url(../images/pic-dress6.png);
+}
+.img-dressing7{
+	background-image:url(../images/pic-dress7.png);
+}
+.img-dressing8{
+	background-image:url(../images/pic-dress8.png);
+}
+.img-mkup9{
+	background-image:url(../images/pic-makeups9.png);
+}
+.slim1,.slim2{
+	width: 106px;
+	height:125px;
+	border:2px solid #efefef;
+	padding:1px;
+}
+.skincare1,.skincare2{
+	width: 105px;
+	height:126px;
+	border:2px solid #efefef;
+	padding:1px;
+}
+.jewelry1,.jewelry2,.hm-travel1,.hm-travel2{
+	width: 105px;
+	height:169px;
+	border:2px solid #efefef;
+	padding:1px;
+	background-repeat:no-repeat;
+	background-position: center;
+}
+.slim1{
+	background: url(../images/pic-slim1.png) center 1px  no-repeat;
+}
+.slim2{
+	background: url(../images/pic-slim2.png) center 1px no-repeat;
+}
+.skincare1{
+	background: url(../images/pic-skincare1.png) center 1px  no-repeat;
+}
+.skincare2{
+	background: url(../images/pic-skincare2.png) center 1px no-repeat;
+}
+.jewelry1{
+	background: url(../images/pic-jewelry1.png) center 1px  no-repeat;
+}
+.jewelry2{
+	background: url(../images/pic-jewelry2.png) center 1px no-repeat;
+}
+.pic-education-left{
+	width: 247px;
+	height:308px;
+	background:url(../images/pic-education-left.png);
+}
+.moto .icon-new{
+	display: block;
+	position: absolute;
+	width:32px;
+	height:32px;
+	left:-16px;
+	top:-12px;
+	background: url(../images/icon-new.png);
+}
+.guide1,.guide2,
+.shot1,.shot2{
+	width:95px;
+	height:109px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.guide1{
+	background-image: url(../images/pic-guide1.png);
+}
+.guide2{
+	background-image: url(../images/pic-guide2.png);
+}
+.shot1{
+	background-image: url(../images/pic-shot1.png);
+}
+.shot2{
+	background-image: url(../images/pic-shot2.png);
+}
+.hm-travel1,.hm-travel2{
+	width: 106px;
+	height:150px;
+	border:2px solid #efefef;
+	padding:1px;
+}
+.hm-travel1{
+	background-image: url(../images/pic-hm-travel1.png);
+}
+.hm-travel2{
+	background-image: url(../images/pic-hm-travel2.png);
+}
+.pic-wedding-left{
+	width:248px;
+	height: 307px; 
+	background:url(../images/pic-wedding-left.png) center center no-repeat;
+}
+.show-header{
+	width: 100%;
+	height:34px;
+	position: relative;
+	background:url(../images/bg-shows1.png) no-repeat;
+	
+}
+.show-header:after{
+	content:"";
+	display: block;
+	position: absolute;
+	bottom:0;
+	right:0;
+	background:url(../images/bg-title.png) 194px 26px repeat;
+	height:8px;
+	width:80%;
+}
+.pic-wedding-show1{
+	background-image: url(../images/pic-weddingshow1.png);
+}
+.pic-wedding-show2{
+	background-image: url(../images/pic-weddingshow2.png);
+}
+.pic-wedding-show3{
+	background-image: url(../images/pic-weddingshow3.png);
+}
+.pic-wedding-show4{
+	background-image: url(../images/pic-weddingshow4.png);
+}
+.pic-wedding-show5{
+	background-image: url(../images/pic-weddingshow5.png);
+}
+.pic-wedding-show6{
+	background-image: url(../images/pic-weddingshow6.png);
+}
+.pic-wedding-show7{
+	background-image: url(../images/pic-weddingshow7.png);
+}
+.pic-wedding-show8{
+	background-image: url(../images/pic-weddingshow8.png);
+}
+.pic-wedding-show9{
+	background-image: url(../images/pic-weddingshow9.png);
+}
+.pic-wedding-show10{
+	background-image: url(../images/pic-weddingshow10.png);
+}
+.pic-wedding-show11{
+	background-image: url(../images/pic-weddingshow11.png);
+}
+.pic-wedding-show12{
+	background-image: url(../images/pic-weddingshow12.png);
+}
+.pic-videoperson-show1{
+	background-image: url(../images/pic-videoperson1.png);
+}
+.pic-videoperson-show2{
+	background-image: url(../images/pic-videoperson2.png);
+}
+.pic-videoperson-show3{
+	background-image: url(../images/pic-videoperson3.png);
+}
+.pic-videoperson-show4{
+	background-image: url(../images/pic-videoperson4.png);
+}
+.pic-videoperson-show5{
+	background-image: url(../images/pic-videoperson5.png);
+}
+.pic-videoperson-show6{
+	background-image: url(../images/pic-videoperson6.png);
+}
+.pic-videoperson-show7{
+	background-image: url(../images/pic-videoperson7.png);
+}
+.pic-videoperson-show8{
+	background-image: url(../images/pic-videoperson8.png);
+}
+.pic-videoperson-show9{
+	background-image: url(../images/pic-videoperson9.png);
+}
+.pic-videoperson-show10{
+	background-image: url(../images/pic-videoperson10.png);
+}
+.pic-videoperson-show11{
+	background-image: url(../images/pic-videoperson11.png);
+}
+.pic-videoperson-show12{
+	background-image: url(../images/pic-videoperson12.png);
+}
+.icon-beian{
+	width: 48px;
+	height:12px;
+	background: url(../images/icon-beian.png);
+}
+.side-qq-service .tab{
+	width: 24px;
+	height: 247px;
+	left:0;
+	top:20%;
+	background: url(../images/icon-qqside.png);
+}
+.carousel-figure-box1 .pics>li:nth-child(1){
+	background:url(../images/banner-big1.jpg) center center no-repeat;
+}
+.carousel-figure-box1 .pics>li:nth-child(2){
+	background:url(../images/banner-big2.jpg) center center no-repeat;
+}
+.carousel-figure-box1 .pics>li:nth-child(3){
+	background:url(../images/banner-big3.jpg) center center no-repeat;
+}
+.carousel-figure-box1 .pics>li:nth-child(4){
+	background:url(../images/banner-big4.jpg) center center no-repeat;
+}
+.carousel-figure-box1 .pics>li:nth-child(5){
+	background:url(../images/banner-big5.jpg) center center no-repeat;
+}
+.carousel-figure-box2 .pics>li:nth-child(1){
+	background:url(../images/pic-sidebanner.png) center center no-repeat;
+}
+.carousel-figure-box2 .pics>li:nth-child(2){
+	background:url(../images/banner-big2.jpg) center center no-repeat;
+}
+.carousel-figure-box2 .pics>li:nth-child(3){
+	background:url(../images/banner-big3.jpg) center center no-repeat;
+}
+.carousel-figure-box2 .pics>li:nth-child(4){
+	background:url(../images/banner-big4.jpg) center center no-repeat;
+}

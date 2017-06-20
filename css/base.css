@@ -1,0 +1,92 @@
+*{
+	padding:0;
+	margin:0;
+	list-style: none;
+	text-decoration: none;
+	-webkit-appearance:none;
+	   -moz-appearance:none;
+	        appearance:none;
+	outline: 0;
+	color:#666666;
+}
+html{
+	font-size: 12px;
+}
+body>*{
+	overflow: hidden;
+}
+a:hover{
+	cursor: pointer;
+}
+i{
+	display: inline-block;
+}
+button{
+	cursor: pointer;
+}
+.wrap{
+	width:1060px;
+	position: relative;
+	overflow: hidden;
+	margin:0 auto;
+}
+.flex-r{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-flow: row nowrap;
+	    flex-flow: row nowrap;
+}
+.flex-c{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-flow: column nowrap;
+	    flex-flow: column nowrap;
+}
+.stretch{
+	-webkit-box-align:stretch;
+	    -ms-flex-align:stretch;
+	        align-items:stretch;
+}
+.between{
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.vcenter{
+	vertical-align: middle;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.hcenter{
+	text-align: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.right{
+	text-align: right;
+	-webkit-box-pack: end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+}
+.hid{
+	display: none;
+}
+.clear:after{
+	content:"";
+	display: block;
+	height:0;
+	clear:both;
+}
+.sec-left{
+	width: 246px;
+}
+.sec-middle{
+	width:460px;
+}
+.sec-right{
+	width:250px;
+}
